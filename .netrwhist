@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/shaaban/Work/Research-Work/superbit_code/mesa/mesa_fpga_pci/test_pci'
+let g:netrw_dirhist_2='/home/shaaban/Work/Research-Work/superbit_code/mesa'
+let g:netrw_dirhist_3='/home/shaaban/Work/Research-Work/superbit_code/mesa/mesa_fpga_pci'
